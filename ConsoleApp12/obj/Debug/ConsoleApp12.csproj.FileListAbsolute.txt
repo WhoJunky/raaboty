@@ -1,0 +1,8 @@
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
