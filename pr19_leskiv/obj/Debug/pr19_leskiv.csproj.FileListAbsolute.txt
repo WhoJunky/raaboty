@@ -1,0 +1,11 @@
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\bin\Debug\pr19_leskiv.exe.config
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\bin\Debug\pr19_leskiv.exe
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\bin\Debug\pr19_leskiv.pdb
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\obj\Debug\pr19_leskiv.csproj.AssemblyReference.cache
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\obj\Debug\pr19_leskiv.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\obj\Debug\pr19_leskiv.Form1.resources
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\obj\Debug\pr19_leskiv.Properties.Resources.resources
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\obj\Debug\pr19_leskiv.csproj.GenerateResource.cache
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\obj\Debug\pr19_leskiv.csproj.CoreCompileInputs.cache
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\obj\Debug\pr19_leskiv.exe
+D:\Users\1213-9\Documents\2-ИСП\Основы программирования\Лескив\pr19_leskiv\obj\Debug\pr19_leskiv.pdb
